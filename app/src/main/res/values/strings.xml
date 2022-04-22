@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tugas1_AKB_IF1_10119033</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+</resources>
